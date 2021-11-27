@@ -8,5 +8,7 @@ print(type(2.7))
 
 print(type(None))
 
+print(type(5.))
 
+print(5.)
 
